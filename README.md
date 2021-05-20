@@ -21,21 +21,21 @@
 
 8、[拼多多--最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A--%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-9、[快手--最新iOS面试题总结](https://www.jianshu.com/p/7606148cf5bf)
+9、[快手--最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E5%BF%AB%E6%89%8B--%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-10、[虎牙--最新iOS面试题总结](https://www.jianshu.com/p/97469724ff25)
+10、[虎牙--最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E8%99%8E%E7%89%99--%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-11、[iOS面试--最新快手iOS面试题](https://www.jianshu.com/p/0eb02402f730)
+11、[iOS面试--最新快手iOS面试题](https://github.com/LGBamboo/iOS-article/blob/main/iOS%E9%9D%A2%E8%AF%95--%E6%9C%80%E6%96%B0%E5%BF%AB%E6%89%8BiOS%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-12、[iOS面试--字节跳动最新iOS开发面试题](https://www.jianshu.com/p/2eca8c29db27)
+12、[iOS面试--字节跳动最新iOS开发面试题](https://github.com/LGBamboo/iOS-article/blob/main/iOS%E9%9D%A2%E8%AF%95--%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%80%E6%96%B0iOS%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-13、[（最新）iOS高级面试，各大厂以及小公司的面试题！](https://www.jianshu.com/p/3053eb860997)
+13、[（最新）iOS高级面试，各大厂以及小公司的面试题！](https://github.com/LGBamboo/iOS-article/blob/main/%EF%BC%88%E6%9C%80%E6%96%B0%EF%BC%89iOS%E9%AB%98%E7%BA%A7%E9%9D%A2%E8%AF%95%EF%BC%8C%E5%90%84%E5%A4%A7%E5%8E%82%E4%BB%A5%E5%8F%8A%E5%B0%8F%E5%85%AC%E5%8F%B8%E7%9A%84%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%81.md)
 
-14、[知名互联网公司iOS面试题](https://www.jianshu.com/p/f9b44b7fe062)
+14、[知名互联网公司iOS面试题](https://github.com/LGBamboo/iOS-article/blob/main/%E7%9F%A5%E5%90%8D%E4%BA%92%E8%81%94%E7%BD%91%E5%85%AC%E5%8F%B8iOS%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
-15、[2020年，大厂常问iOS面试题汇总！](https://www.jianshu.com/p/71c52a7da9d7)
+15、[大厂常问iOS面试题汇总！](https://github.com/LGBamboo/iOS-article/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%B1%87%E6%80%BB%EF%BC%81.md)
 
-16、[2020，iOS面试辅助之iOS面试题集](https://www.jianshu.com/p/cac63f5a0966)
+16、[iOS面试辅助之iOS面试题集](https://github.com/LGBamboo/iOS-article/blob/main/iOS%E9%9D%A2%E8%AF%95%E8%BE%85%E5%8A%A9%E4%B9%8BiOS%E9%9D%A2%E8%AF%95%E9%A2%98%E9%9B%86.md)
 
 
 #### 二：大厂iOS面试题+答案篇
