@@ -7,19 +7,19 @@
 
 1、[腾讯—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E8%85%BE%E8%AE%AF%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-2、[百度—最新iOS面试题总结](https://www.jianshu.com/p/1874204a1035)
+2、[百度—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E7%99%BE%E5%BA%A6%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-3、[头条—最新iOS面试题总结](https://www.jianshu.com/p/26b8f8392ac1)
+3、[头条—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E5%A4%B4%E6%9D%A1%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-4、[阿里—最新iOS面试题总结](https://www.jianshu.com/p/8acce2bf7d5e)
+4、[阿里—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E9%98%BF%E9%87%8C%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-5、[美团—最新iOS面试题总结](https://www.jianshu.com/p/5c812ad38002)
+5、[美团—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E7%BE%8E%E5%9B%A2%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-6、[某大厂—最新iOS面试题总结](https://www.jianshu.com/p/c4a2196c57ec)
+6、[某大厂—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/XX%E5%A4%A7%E5%8E%82%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-7、[抖音--最新iOS面试题总结](https://www.jianshu.com/p/8d5e9c9fbe28)
+7、[抖音--最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E6%8A%96%E9%9F%B3--%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
-8、[拼多多--最新iOS面试题总结](https://app.huoban.com/spaces/4000000002206787/tables)
+8、[拼多多--最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E6%8B%BC%E5%A4%9A%E5%A4%9A--%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
 9、[快手--最新iOS面试题总结](https://www.jianshu.com/p/7606148cf5bf)
 
