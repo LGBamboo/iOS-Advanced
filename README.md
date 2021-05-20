@@ -5,7 +5,7 @@
 ***
 #### 一：知名大厂iOS开发面试题篇
 
-1、[腾讯—最新iOS面试题总结](https://www.jianshu.com/p/3bc506e98a1c)
+1、[腾讯—最新iOS面试题总结](https://github.com/LGBamboo/iOS-article/blob/main/%E8%85%BE%E8%AE%AF%E2%80%94%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93.md)
 
 2、[百度—最新iOS面试题总结](https://www.jianshu.com/p/1874204a1035)
 
