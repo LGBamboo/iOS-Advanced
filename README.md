@@ -122,7 +122,7 @@
 
 23、[怎么防止反编译？](https://www.jianshu.com/p/b4c59f85c12e)
 
-#### 四：iOS开发常问面试（12月21号更新）
+#### 四：iOS开发常问面试
 
 1、[iOS面试题-算法篇](https://www.jianshu.com/p/25ae898ba82a)
 
