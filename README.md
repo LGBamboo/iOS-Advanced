@@ -46,33 +46,33 @@
 
 3、[阿里、字节iOS面试题之Runtime相关问题3（附答案）](https://github.com/LGBamboo/iOS-article.02/blob/main/%E9%98%BF%E9%87%8C%E3%80%81%E5%AD%97%E8%8A%82iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8BRuntime%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%983%EF%BC%88%E9%99%84%E7%AD%94%E6%A1%88%EF%BC%89.md)
 
-4、[最新iOS面试题之iOS通知机制全面解析](https://www.jianshu.com/p/5952c0a3fc62)
+4、[最新iOS面试题之iOS通知机制全面解析](https://github.com/LGBamboo/iOS-article.02/blob/main/%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8BiOS%E9%80%9A%E7%9F%A5%E6%9C%BA%E5%88%B6%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90.md)
 
-5、[最新iOS面试题之NSNotification](https://www.jianshu.com/p/ef71cdf30ac1)
+5、[最新iOS面试题之NSNotification](https://github.com/LGBamboo/iOS-article.02/blob/main/%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8BNSNotification%EF%BC%88%E9%99%84%E7%AD%94%E6%A1%88%EF%BC%89.md)
 
-6、[最新iOS面试题之Runloop&KVO](https://www.jianshu.com/p/97610617699b)
+6、[最新iOS面试题之Runloop&KVO](https://github.com/LGBamboo/iOS-article.02/blob/main/%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8BRunloop%26KVO%EF%BC%88%E9%99%84%E7%AD%94%E6%A1%88%EF%BC%89.md)
 
-7、[最新iOS面试题之Block](https://www.jianshu.com/p/18d446589589)
+7、[最新iOS面试题之Block](https://github.com/LGBamboo/iOS-article.02/blob/main/%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8BBlock%EF%BC%88%E9%99%84%E7%AD%94%E6%A1%88%EF%BC%89.md)
 
-8、[最新iOS面试题之视图&图形](https://www.jianshu.com/p/f4ab71af8ffa)
+8、[最新iOS面试题之视图&图形](https://github.com/LGBamboo/iOS-article.02/blob/main/%E6%9C%80%E6%96%B0iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E4%B9%8B%E8%A7%86%E5%9B%BE%26%E5%9B%BE%E5%BD%A2%EF%BC%88%E9%99%84%E7%AD%94%E6%A1%88%EF%BC%89.md)
 
-9、[2020年，精选大厂的iOS面试题总结（一）](https://www.jianshu.com/p/deeac4ab2742)
+9、[精选大厂的iOS面试题总结（一）](https://github.com/LGBamboo/iOS-article.02/blob/main/%E7%B2%BE%E9%80%89%E5%A4%A7%E5%8E%82%E7%9A%84iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
-10、[2020年，精选大厂的iOS面试题总结（二）](https://www.jianshu.com/p/89601ba29684)
+10、[精选大厂的iOS面试题总结（二）](https://github.com/LGBamboo/iOS-article.02/blob/main/%E7%B2%BE%E9%80%89%E5%A4%A7%E5%8E%82%E7%9A%84iOS%E9%9D%A2%E8%AF%95%E9%A2%98%E6%80%BB%E7%BB%93%EF%BC%88%E4%BA%8C%EF%BC%89.md)
 
-11、[大厂常问iOS面试题--性能优化篇](https://www.jianshu.com/p/4a480458ba51)
+11、[大厂常问iOS面试题--性能优化篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%E7%AF%87.md)
 
-12、[大厂常问iOS面试题--多线程篇](https://www.jianshu.com/p/9e51dfbdb96f)
+12、[大厂常问iOS面试题--多线程篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E5%A4%9A%E7%BA%BF%E7%A8%8B%E7%AF%87.md)
 
-13、[大厂常问iOS面试题--Runtime篇](https://www.jianshu.com/p/ad97a1e91ba3)
+13、[大厂常问iOS面试题--Runtime篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--Runtime%E7%AF%87.md)
 
-14、[大厂常问iOS面试题--Runloop篇](https://www.jianshu.com/p/85f14af8e7cf)
+14、[大厂常问iOS面试题--Runloop篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--Runloop%E7%AF%87.md)
 
-15、[大厂常问iOS面试题--组件化篇](https://www.jianshu.com/p/d188599b86cd)
+15、[大厂常问iOS面试题--组件化篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E7%BB%84%E4%BB%B6%E5%8C%96%E7%AF%87.md)
 
-16、[大厂常问iOS面试题--内存管理篇](https://www.jianshu.com/p/c5208ffdb4c2)
+16、[大厂常问iOS面试题--内存管理篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AF%87.md)
 
-17、[大厂常问iOS面试小集](https://www.jianshu.com/p/61e05b01d041)
+17、[大厂常问iOS面试小集](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E5%B0%8F%E9%9B%86.md)
 
 #### 三：精选iOS面试题+答案篇
 
