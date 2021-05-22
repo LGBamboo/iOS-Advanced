@@ -78,51 +78,51 @@
 
 ### 三：精选iOS面试题+答案篇
 
-1、[NSOperation 与 GCD 的主要区别？](https://www.jianshu.com/p/00fb6fae0dc0)
+1、[NSOperation 与 GCD 的主要区别？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9ANSOperation%20%E4%B8%8E%20GCD%20%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB%EF%BC%9F.md)
 
-2、[反射是什么？可以举出几个应用场景么？](https://www.jianshu.com/p/dc8e051b9dd7)
+2、[反射是什么？可以举出几个应用场景么？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%8F%8D%E5%B0%84%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E5%8F%AF%E4%BB%A5%E4%B8%BE%E5%87%BA%E5%87%A0%E4%B8%AA%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF%E4%B9%88%EF%BC%9F.md)
 
-3、[App启动过慢，你可能想到的因素有哪些？](https://www.jianshu.com/p/998f06517eba)
+3、[App启动过慢，你可能想到的因素有哪些？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AApp%E5%90%AF%E5%8A%A8%E8%BF%87%E6%85%A2%EF%BC%8C%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%83%B3%E5%88%B0%E7%9A%84%E5%9B%A0%E7%B4%A0%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F.md)
 
-4、[介绍下App启动的完成过程？](https://www.jianshu.com/p/bcc34cc2975a)
+4、[介绍下App启动的完成过程？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%BB%8B%E7%BB%8D%E4%B8%8BApp%E5%90%AF%E5%8A%A8%E7%9A%84%E5%AE%8C%E6%88%90%E8%BF%87%E7%A8%8B%EF%BC%9F.md)
 
-5、[SDWebImage实现原理是什么？ 它是如何解决tableView的复用时出现图片错乱问题的呢？](https://www.jianshu.com/p/bf998b2538b9)
+5、[SDWebImage实现原理是什么？ 它是如何解决tableView的复用时出现图片错乱问题的呢？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9ASDWebImage%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%20%E5%AE%83%E6%98%AF%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3tableView%E7%9A%84%E5%A4%8D%E7%94%A8%E6%97%B6%E5%87%BA%E7%8E%B0%E5%9B%BE%E7%89%87%E9%94%99%E4%B9%B1%E9%97%AE%E9%A2%98%E7%9A%84%E5%91%A2%EF%BC%9F.md)
 
-6、[如何优化 App 的启动耗时？](https://www.jianshu.com/p/459dd555988b)
+6、[如何优化 App 的启动耗时？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%20App%20%E7%9A%84%E5%90%AF%E5%8A%A8%E8%80%97%E6%97%B6%EF%BC%9F.md)
 
-7、[你会如何存储用户的一些敏感信息，如登录的token](https://www.jianshu.com/p/380d15262054)
+7、[你会如何存储用户的一些敏感信息，如登录的token](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%BD%A0%E4%BC%9A%E5%A6%82%E4%BD%95%E5%AD%98%E5%82%A8%E7%94%A8%E6%88%B7%E7%9A%84%E4%B8%80%E4%BA%9B%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF%EF%BC%8C%E5%A6%82%E7%99%BB%E5%BD%95%E7%9A%84token.md)
 
-8、[SDWebImage原理](https://www.jianshu.com/p/ff9095de1753)
+8、[SDWebImage原理](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9ASDWebImage%E5%8E%9F%E7%90%86.md)
 
-9、[iOS 开发中常见的内存问题有哪些？](https://www.jianshu.com/p/59d12b3b94f3)
+9、[iOS开发中常见的内存问题有哪些？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AiOS%20%E5%BC%80%E5%8F%91%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E5%86%85%E5%AD%98%E9%97%AE%E9%A2%98%E6%9C%89%E5%93%AA%E4%BA%9B%EF%BC%9F.md)
 
-10、[聊一聊iOS 中的离屏渲染？](https://www.jianshu.com/p/ac8ed9eb746a)
+10、[聊一聊iOS 中的离屏渲染？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E8%81%8A%E4%B8%80%E8%81%8AiOS%20%E4%B8%AD%E7%9A%84%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%EF%BC%9F.md)
 
-11、[三次握手与四次挥手](https://www.jianshu.com/p/de76ec1b5fe7)
+11、[三次握手与四次挥手](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B%E4%B8%8E%E5%9B%9B%E6%AC%A1%E6%8C%A5%E6%89%8B.md)
 
-12、[你一般是如何优化你的APP的?](https://www.jianshu.com/p/58c99ddd4879)
+12、[你一般是如何优化你的APP的?](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%BD%A0%E4%B8%80%E8%88%AC%E6%98%AF%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%E4%BD%A0%E7%9A%84APP%E7%9A%84%EF%BC%9F.md)
 
-13、[AFNetworking 底层原理分析](https://www.jianshu.com/p/527736ee25cc)
+13、[AFNetworking 底层原理分析](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AAFNetworking%20%E5%BA%95%E5%B1%82%E5%8E%9F%E7%90%86%E5%88%86%E6%9E%90.md)
 
-14、[分析下SDWebImage](https://www.jianshu.com/p/5094686d3e13)
+14、[分析下SDWebImage](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%88%86%E6%9E%90%E4%B8%8BSDWebImage.md)
 
-15、[dSYM你是如何分析的](https://www.jianshu.com/p/aaeb814753f5)
+15、[dSYM你是如何分析的](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AdSYM%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E5%88%86%E6%9E%90%E7%9A%84.md)
 
-16、[如何优化 App 的的包大小？](https://www.jianshu.com/p/ef356e5f2611)
+16、[如何优化 App 的的包大小？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E5%A6%82%E4%BD%95%E4%BC%98%E5%8C%96%20App%20%E7%9A%84%E7%9A%84%E5%8C%85%E5%A4%A7%E5%B0%8F%EF%BC%9F.md)
 
-17、[一个int变量被__block修饰与否的区别？](https://www.jianshu.com/p/960eec2bfa64)
+17、[一个int变量被__block修饰与否的区别？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%B8%80%E4%B8%AAint%E5%8F%98%E9%87%8F%E8%A2%AB__block%E4%BF%AE%E9%A5%B0%E4%B8%8E%E5%90%A6%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%9F.md)
 
-18、[MVVM和MVC的区别](https://www.jianshu.com/p/d0bc12a63ccf)
+18、[MVVM和MVC的区别](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AMVVM%E5%92%8CMVC%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
 19、[讲一下MVC和MVVM，MVP？](https://www.jianshu.com/p/37b907cbd0e3)
 
-20、[什么是离屏渲染？什么情况下会触发？该如何应对？](https://www.jianshu.com/p/2bd51fd0016a)
+20、[什么是离屏渲染？什么情况下会触发？该如何应对？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%EF%BC%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E8%A7%A6%E5%8F%91%EF%BC%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F.md)
 
-21、[通知，代理，KVO的区别，以及通知的多线程问题](https://www.jianshu.com/p/b1c55cf8f480)
+21、[通知，代理，KVO的区别，以及通知的多线程问题](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E9%80%9A%E7%9F%A5%EF%BC%8C%E4%BB%A3%E7%90%86%EF%BC%8CKVO%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%BB%A5%E5%8F%8A%E9%80%9A%E7%9F%A5%E7%9A%84%E5%A4%9A%E7%BA%BF%E7%A8%8B%E9%97%AE%E9%A2%98.md)
 
-22、[网络七层协议](https://www.jianshu.com/p/2713aaa354eb)
+22、[网络七层协议](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E7%BD%91%E7%BB%9C%E4%B8%83%E5%B1%82%E5%8D%8F%E8%AE%AE.md)
 
-23、[怎么防止反编译？](https://www.jianshu.com/p/b4c59f85c12e)
+23、[怎么防止反编译？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E6%80%8E%E4%B9%88%E9%98%B2%E6%AD%A2%E5%8F%8D%E7%BC%96%E8%AF%91%EF%BC%9F.md)
 
 ### 四：iOS开发常问面试
 
