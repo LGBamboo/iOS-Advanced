@@ -114,7 +114,7 @@
 
 18、[MVVM和MVC的区别](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9AMVVM%E5%92%8CMVC%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
-19、[讲一下MVC和MVVM，MVP？](https://www.jianshu.com/p/37b907cbd0e3)
+19、[讲一下MVC和MVVM，MVP？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E8%AE%B2%E4%B8%80%E4%B8%8BMVC%E5%92%8CMVVM%EF%BC%8CMVP%EF%BC%9F.md)
 
 20、[什么是离屏渲染？什么情况下会触发？该如何应对？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E7%A6%BB%E5%B1%8F%E6%B8%B2%E6%9F%93%EF%BC%9F%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E4%BC%9A%E8%A7%A6%E5%8F%91%EF%BC%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%EF%BC%9F.md)
 
