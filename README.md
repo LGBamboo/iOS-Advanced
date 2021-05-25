@@ -74,9 +74,9 @@
 
 16、[大厂常问iOS面试题--内存管理篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AF%87.md)
 
-17、[大厂常问iOS面试题--算法篇](https://www.jianshu.com/p/25ae898ba82a)
+17、[大厂常问iOS面试题--算法篇](https://github.com/LGBamboo/iOS-article.02/blob/main/iOS%E5%BC%80%E5%8F%91%E9%9D%A2%E8%AF%95%E9%A2%98-%E7%AE%97%E6%B3%95%E7%AF%87.md)
 
-18、[大厂常问iOS面试题--数据结构篇](https://www.jianshu.com/p/d77ab950606e)
+18、[大厂常问iOS面试题--数据结构篇](https://github.com/LGBamboo/iOS-article.02/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AF%87%EF%BC%88%E5%BF%85%E9%97%AE%E7%B3%BB%E5%88%97%EF%BC%89.md)
 
 19、[大厂常问iOS面试小集](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E5%B0%8F%E9%9B%86.md)
 
