@@ -74,7 +74,11 @@
 
 16、[大厂常问iOS面试题--内存管理篇](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E9%A2%98--%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86%E7%AF%87.md)
 
-17、[大厂常问iOS面试小集](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E5%B0%8F%E9%9B%86.md)
+17、[大厂常问iOS面试题--算法篇](https://www.jianshu.com/p/25ae898ba82a)
+
+18、[大厂常问iOS面试题--数据结构篇](https://www.jianshu.com/p/d77ab950606e)
+
+19、[大厂常问iOS面试小集](https://github.com/LGBamboo/iOS-article.02/blob/main/%E5%A4%A7%E5%8E%82%E5%B8%B8%E9%97%AEiOS%E9%9D%A2%E8%AF%95%E5%B0%8F%E9%9B%86.md)
 
 ### 三：精选iOS面试题+答案篇
 
@@ -123,17 +127,3 @@
 22、[网络七层协议](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E7%BD%91%E7%BB%9C%E4%B8%83%E5%B1%82%E5%8D%8F%E8%AE%AE.md)
 
 23、[怎么防止反编译？](https://github.com/LGBamboo/iOS-article.03/blob/main/iOS%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A%E6%80%8E%E4%B9%88%E9%98%B2%E6%AD%A2%E5%8F%8D%E7%BC%96%E8%AF%91%EF%BC%9F.md)
-
-### 四：iOS开发常问面试
-
-1、[iOS面试题-算法篇](https://www.jianshu.com/p/25ae898ba82a)
-
-2、[iOS面试题-数据结构篇](https://www.jianshu.com/p/d77ab950606e)
-
-3、[iOS面试题-内存管理篇](https://www.jianshu.com/p/266924edce8c)
-
-4、[iOS面试题-多线程篇](https://www.jianshu.com/p/5a79110d0504)
-
-5、[iOS面试题-组件化篇](https://www.jianshu.com/p/464a8f1ab949)
-
-6、[iOS面试题-性能优化篇](https://www.jianshu.com/p/6e8d652c4bab)
